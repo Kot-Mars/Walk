@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Gilroy";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Gilroy-Medium"),
+        url("../font/Gilroy-Medium.woff2") format("woff2"),
+        url("../font/Gilroy-Medium.woff") format("woff"),
+        url("../font/Gilroy-Medium.eot") format("eot");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Gilroy";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Gilroy-Bold"),
+        url("../font/Gilroy-Bold.woff2") format("woff2"),
+        url("../font/Gilroy-Bold.woff") format("woff"),
+        url("../font/Gilroy-Bold.eot") format("eot");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Schigr";
+    font-weight: 500;
+    font-style: normal;
+    src: local("SCHIGRG_"),
+        url("../font/SCHIGRG_.TTF") format("ttf"),
+        url("../font/Gilroy-Bold.woff") format("woff"),
+        url("../font/Gilroy-Bold.eot") format("eot");
+    font-display: swap;
+}
